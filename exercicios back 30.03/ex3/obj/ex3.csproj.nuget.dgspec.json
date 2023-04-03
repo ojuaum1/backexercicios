@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\48342168883\\Desktop\\exercicios back 30.03\\ex3\\ex3.csproj": {}
+    "C:\\Users\\48342168883\\Desktop\\backexercicios\\exercicios back 30.03\\ex3\\ex3.csproj": {}
   },
   "projects": {
-    "C:\\Users\\48342168883\\Desktop\\exercicios back 30.03\\ex3\\ex3.csproj": {
+    "C:\\Users\\48342168883\\Desktop\\backexercicios\\exercicios back 30.03\\ex3\\ex3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\48342168883\\Desktop\\exercicios back 30.03\\ex3\\ex3.csproj",
+        "projectUniqueName": "C:\\Users\\48342168883\\Desktop\\backexercicios\\exercicios back 30.03\\ex3\\ex3.csproj",
         "projectName": "ex3",
-        "projectPath": "C:\\Users\\48342168883\\Desktop\\exercicios back 30.03\\ex3\\ex3.csproj",
+        "projectPath": "C:\\Users\\48342168883\\Desktop\\backexercicios\\exercicios back 30.03\\ex3\\ex3.csproj",
         "packagesPath": "C:\\Users\\48342168883\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\48342168883\\Desktop\\exercicios back 30.03\\ex3\\obj\\",
+        "outputPath": "C:\\Users\\48342168883\\Desktop\\backexercicios\\exercicios back 30.03\\ex3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\48342168883\\AppData\\Roaming\\NuGet\\NuGet.Config",
