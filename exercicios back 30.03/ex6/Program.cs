@@ -1,7 +1,7 @@
 ﻿   Console.Write("Digite a média do aluno: ");
         double media = double.Parse(Console.ReadLine());
 
-        Console.Write("Digite a frequência do aluno (%): ");
+        Console.Write("Digite a frequência do aluno (%): "); 
         double frequencia = double.Parse(Console.ReadLine());
 
         if (frequencia < 75)
