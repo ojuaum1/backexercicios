@@ -73,8 +73,11 @@ switch (suquinho)
 
 
     default:
-        Console.WriteLine($"bebida não encontrada");
+        Console.WriteLine($"bebida não encontrada ");
         break;
+
+Console.Clear();
+Console.WriteLine($"fim de programa");
 
 }
 
