@@ -1,0 +1,15 @@
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\pericles do while\bin\Debug\net7.0\pericles do while.exe
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\pericles do while\bin\Debug\net7.0\pericles do while.deps.json
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\pericles do while\bin\Debug\net7.0\pericles do while.runtimeconfig.json
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\pericles do while\bin\Debug\net7.0\pericles do while.dll
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\pericles do while\bin\Debug\net7.0\pericles do while.pdb
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\pericles do while\obj\Debug\net7.0\pericles do while.csproj.AssemblyReference.cache
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\pericles do while\obj\Debug\net7.0\pericles do while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\pericles do while\obj\Debug\net7.0\pericles do while.AssemblyInfoInputs.cache
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\pericles do while\obj\Debug\net7.0\pericles do while.AssemblyInfo.cs
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\pericles do while\obj\Debug\net7.0\pericles do while.csproj.CoreCompileInputs.cache
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\pericles do while\obj\Debug\net7.0\pericles do while.dll
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\pericles do while\obj\Debug\net7.0\refint\pericles do while.dll
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\pericles do while\obj\Debug\net7.0\pericles do while.pdb
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\pericles do while\obj\Debug\net7.0\pericles do while.genruntimeconfig.cache
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\pericles do while\obj\Debug\net7.0\ref\pericles do while.dll

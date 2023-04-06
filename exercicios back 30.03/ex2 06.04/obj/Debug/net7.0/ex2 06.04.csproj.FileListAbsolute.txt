@@ -1,0 +1,15 @@
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\ex2 06.04\bin\Debug\net7.0\ex2 06.04.exe
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\ex2 06.04\bin\Debug\net7.0\ex2 06.04.deps.json
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\ex2 06.04\bin\Debug\net7.0\ex2 06.04.runtimeconfig.json
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\ex2 06.04\bin\Debug\net7.0\ex2 06.04.dll
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\ex2 06.04\bin\Debug\net7.0\ex2 06.04.pdb
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\ex2 06.04\obj\Debug\net7.0\ex2 06.04.csproj.AssemblyReference.cache
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\ex2 06.04\obj\Debug\net7.0\ex2 06.04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\ex2 06.04\obj\Debug\net7.0\ex2 06.04.AssemblyInfoInputs.cache
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\ex2 06.04\obj\Debug\net7.0\ex2 06.04.AssemblyInfo.cs
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\ex2 06.04\obj\Debug\net7.0\ex2 06.04.csproj.CoreCompileInputs.cache
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\ex2 06.04\obj\Debug\net7.0\ex2 06.04.dll
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\ex2 06.04\obj\Debug\net7.0\refint\ex2 06.04.dll
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\ex2 06.04\obj\Debug\net7.0\ex2 06.04.pdb
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\ex2 06.04\obj\Debug\net7.0\ex2 06.04.genruntimeconfig.cache
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\ex2 06.04\obj\Debug\net7.0\ref\ex2 06.04.dll
