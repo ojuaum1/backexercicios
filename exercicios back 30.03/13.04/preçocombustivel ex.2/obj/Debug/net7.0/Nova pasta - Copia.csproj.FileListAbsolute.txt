@@ -1,0 +1,15 @@
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\13.04\Nova pasta - Copia\bin\Debug\net7.0\Nova pasta - Copia.exe
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\13.04\Nova pasta - Copia\bin\Debug\net7.0\Nova pasta - Copia.deps.json
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\13.04\Nova pasta - Copia\bin\Debug\net7.0\Nova pasta - Copia.runtimeconfig.json
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\13.04\Nova pasta - Copia\bin\Debug\net7.0\Nova pasta - Copia.dll
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\13.04\Nova pasta - Copia\bin\Debug\net7.0\Nova pasta - Copia.pdb
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\13.04\Nova pasta - Copia\obj\Debug\net7.0\Nova pasta - Copia.csproj.AssemblyReference.cache
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\13.04\Nova pasta - Copia\obj\Debug\net7.0\Nova pasta - Copia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\13.04\Nova pasta - Copia\obj\Debug\net7.0\Nova pasta - Copia.AssemblyInfoInputs.cache
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\13.04\Nova pasta - Copia\obj\Debug\net7.0\Nova pasta - Copia.AssemblyInfo.cs
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\13.04\Nova pasta - Copia\obj\Debug\net7.0\Nova pasta - Copia.csproj.CoreCompileInputs.cache
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\13.04\Nova pasta - Copia\obj\Debug\net7.0\Nova pasta - Copia.dll
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\13.04\Nova pasta - Copia\obj\Debug\net7.0\refint\Nova pasta - Copia.dll
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\13.04\Nova pasta - Copia\obj\Debug\net7.0\Nova pasta - Copia.pdb
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\13.04\Nova pasta - Copia\obj\Debug\net7.0\Nova pasta - Copia.genruntimeconfig.cache
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\13.04\Nova pasta - Copia\obj\Debug\net7.0\ref\Nova pasta - Copia.dll
