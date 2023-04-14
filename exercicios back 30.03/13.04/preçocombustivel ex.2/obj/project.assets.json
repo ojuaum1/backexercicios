@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\48342168883\\Desktop\\backexercicios\\exercicios back 30.03\\13.04\\Nova pasta - Copia\\Nova pasta - Copia.csproj",
+      "projectUniqueName": "C:\\Users\\48342168883\\Desktop\\backexercicios\\exercicios back 30.03\\13.04\\preçocombustivel ex.2\\Nova pasta - Copia.csproj",
       "projectName": "Nova pasta - Copia",
-      "projectPath": "C:\\Users\\48342168883\\Desktop\\backexercicios\\exercicios back 30.03\\13.04\\Nova pasta - Copia\\Nova pasta - Copia.csproj",
+      "projectPath": "C:\\Users\\48342168883\\Desktop\\backexercicios\\exercicios back 30.03\\13.04\\preçocombustivel ex.2\\Nova pasta - Copia.csproj",
       "packagesPath": "C:\\Users\\48342168883\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\48342168883\\Desktop\\backexercicios\\exercicios back 30.03\\13.04\\Nova pasta - Copia\\obj\\",
+      "outputPath": "C:\\Users\\48342168883\\Desktop\\backexercicios\\exercicios back 30.03\\13.04\\preçocombustivel ex.2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\48342168883\\AppData\\Roaming\\NuGet\\NuGet.Config",

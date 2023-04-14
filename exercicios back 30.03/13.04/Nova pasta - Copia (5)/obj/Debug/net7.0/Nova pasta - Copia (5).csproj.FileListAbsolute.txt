@@ -1,0 +1,15 @@
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\13.04\Nova pasta - Copia (5)\bin\Debug\net7.0\Nova pasta - Copia (5).exe
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\13.04\Nova pasta - Copia (5)\bin\Debug\net7.0\Nova pasta - Copia (5).deps.json
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\13.04\Nova pasta - Copia (5)\bin\Debug\net7.0\Nova pasta - Copia (5).runtimeconfig.json
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\13.04\Nova pasta - Copia (5)\bin\Debug\net7.0\Nova pasta - Copia (5).dll
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\13.04\Nova pasta - Copia (5)\bin\Debug\net7.0\Nova pasta - Copia (5).pdb
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\13.04\Nova pasta - Copia (5)\obj\Debug\net7.0\Nova pasta - Copia (5).csproj.AssemblyReference.cache
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\13.04\Nova pasta - Copia (5)\obj\Debug\net7.0\Nova pasta - Copia (5).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\13.04\Nova pasta - Copia (5)\obj\Debug\net7.0\Nova pasta - Copia (5).AssemblyInfoInputs.cache
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\13.04\Nova pasta - Copia (5)\obj\Debug\net7.0\Nova pasta - Copia (5).AssemblyInfo.cs
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\13.04\Nova pasta - Copia (5)\obj\Debug\net7.0\Nova pasta - Copia (5).csproj.CoreCompileInputs.cache
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\13.04\Nova pasta - Copia (5)\obj\Debug\net7.0\Nova pasta - Copia (5).dll
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\13.04\Nova pasta - Copia (5)\obj\Debug\net7.0\refint\Nova pasta - Copia (5).dll
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\13.04\Nova pasta - Copia (5)\obj\Debug\net7.0\Nova pasta - Copia (5).pdb
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\13.04\Nova pasta - Copia (5)\obj\Debug\net7.0\Nova pasta - Copia (5).genruntimeconfig.cache
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\13.04\Nova pasta - Copia (5)\obj\Debug\net7.0\ref\Nova pasta - Copia (5).dll
