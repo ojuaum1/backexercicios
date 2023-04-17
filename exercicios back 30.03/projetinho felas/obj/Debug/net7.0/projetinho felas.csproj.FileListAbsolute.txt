@@ -1,0 +1,15 @@
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\projetinho felas\bin\Debug\net7.0\projetinho felas.exe
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\projetinho felas\bin\Debug\net7.0\projetinho felas.deps.json
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\projetinho felas\bin\Debug\net7.0\projetinho felas.runtimeconfig.json
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\projetinho felas\bin\Debug\net7.0\projetinho felas.dll
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\projetinho felas\bin\Debug\net7.0\projetinho felas.pdb
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\projetinho felas\obj\Debug\net7.0\projetinho felas.csproj.AssemblyReference.cache
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\projetinho felas\obj\Debug\net7.0\projetinho felas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\projetinho felas\obj\Debug\net7.0\projetinho felas.AssemblyInfoInputs.cache
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\projetinho felas\obj\Debug\net7.0\projetinho felas.AssemblyInfo.cs
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\projetinho felas\obj\Debug\net7.0\projetinho felas.csproj.CoreCompileInputs.cache
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\projetinho felas\obj\Debug\net7.0\projetinho felas.dll
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\projetinho felas\obj\Debug\net7.0\refint\projetinho felas.dll
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\projetinho felas\obj\Debug\net7.0\projetinho felas.pdb
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\projetinho felas\obj\Debug\net7.0\projetinho felas.genruntimeconfig.cache
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\projetinho felas\obj\Debug\net7.0\ref\projetinho felas.dll
