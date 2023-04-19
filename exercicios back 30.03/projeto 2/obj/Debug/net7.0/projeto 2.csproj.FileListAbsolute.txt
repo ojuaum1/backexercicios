@@ -1,0 +1,15 @@
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\projeto 2\bin\Debug\net7.0\projeto 2.exe
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\projeto 2\bin\Debug\net7.0\projeto 2.deps.json
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\projeto 2\bin\Debug\net7.0\projeto 2.runtimeconfig.json
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\projeto 2\bin\Debug\net7.0\projeto 2.dll
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\projeto 2\bin\Debug\net7.0\projeto 2.pdb
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\projeto 2\obj\Debug\net7.0\projeto 2.csproj.AssemblyReference.cache
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\projeto 2\obj\Debug\net7.0\projeto 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\projeto 2\obj\Debug\net7.0\projeto 2.AssemblyInfoInputs.cache
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\projeto 2\obj\Debug\net7.0\projeto 2.AssemblyInfo.cs
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\projeto 2\obj\Debug\net7.0\projeto 2.csproj.CoreCompileInputs.cache
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\projeto 2\obj\Debug\net7.0\projeto 2.dll
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\projeto 2\obj\Debug\net7.0\refint\projeto 2.dll
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\projeto 2\obj\Debug\net7.0\projeto 2.pdb
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\projeto 2\obj\Debug\net7.0\projeto 2.genruntimeconfig.cache
+C:\Users\48342168883\Desktop\backexercicios\exercicios back 30.03\projeto 2\obj\Debug\net7.0\ref\projeto 2.dll
