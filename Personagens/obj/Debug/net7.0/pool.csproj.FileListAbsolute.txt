@@ -1,0 +1,15 @@
+C:\Users\48342168883\Desktop\pool\bin\Debug\net7.0\pool.exe
+C:\Users\48342168883\Desktop\pool\bin\Debug\net7.0\pool.deps.json
+C:\Users\48342168883\Desktop\pool\bin\Debug\net7.0\pool.runtimeconfig.json
+C:\Users\48342168883\Desktop\pool\bin\Debug\net7.0\pool.dll
+C:\Users\48342168883\Desktop\pool\bin\Debug\net7.0\pool.pdb
+C:\Users\48342168883\Desktop\pool\obj\Debug\net7.0\pool.csproj.AssemblyReference.cache
+C:\Users\48342168883\Desktop\pool\obj\Debug\net7.0\pool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48342168883\Desktop\pool\obj\Debug\net7.0\pool.AssemblyInfoInputs.cache
+C:\Users\48342168883\Desktop\pool\obj\Debug\net7.0\pool.AssemblyInfo.cs
+C:\Users\48342168883\Desktop\pool\obj\Debug\net7.0\pool.csproj.CoreCompileInputs.cache
+C:\Users\48342168883\Desktop\pool\obj\Debug\net7.0\pool.dll
+C:\Users\48342168883\Desktop\pool\obj\Debug\net7.0\refint\pool.dll
+C:\Users\48342168883\Desktop\pool\obj\Debug\net7.0\pool.pdb
+C:\Users\48342168883\Desktop\pool\obj\Debug\net7.0\pool.genruntimeconfig.cache
+C:\Users\48342168883\Desktop\pool\obj\Debug\net7.0\ref\pool.dll

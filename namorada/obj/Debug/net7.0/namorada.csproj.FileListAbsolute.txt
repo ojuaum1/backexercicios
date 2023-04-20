@@ -1,0 +1,15 @@
+C:\Users\48342168883\Desktop\namorada\bin\Debug\net7.0\namorada.exe
+C:\Users\48342168883\Desktop\namorada\bin\Debug\net7.0\namorada.deps.json
+C:\Users\48342168883\Desktop\namorada\bin\Debug\net7.0\namorada.runtimeconfig.json
+C:\Users\48342168883\Desktop\namorada\bin\Debug\net7.0\namorada.dll
+C:\Users\48342168883\Desktop\namorada\bin\Debug\net7.0\namorada.pdb
+C:\Users\48342168883\Desktop\namorada\obj\Debug\net7.0\namorada.csproj.AssemblyReference.cache
+C:\Users\48342168883\Desktop\namorada\obj\Debug\net7.0\namorada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48342168883\Desktop\namorada\obj\Debug\net7.0\namorada.AssemblyInfoInputs.cache
+C:\Users\48342168883\Desktop\namorada\obj\Debug\net7.0\namorada.AssemblyInfo.cs
+C:\Users\48342168883\Desktop\namorada\obj\Debug\net7.0\namorada.csproj.CoreCompileInputs.cache
+C:\Users\48342168883\Desktop\namorada\obj\Debug\net7.0\namorada.dll
+C:\Users\48342168883\Desktop\namorada\obj\Debug\net7.0\refint\namorada.dll
+C:\Users\48342168883\Desktop\namorada\obj\Debug\net7.0\namorada.pdb
+C:\Users\48342168883\Desktop\namorada\obj\Debug\net7.0\namorada.genruntimeconfig.cache
+C:\Users\48342168883\Desktop\namorada\obj\Debug\net7.0\ref\namorada.dll
