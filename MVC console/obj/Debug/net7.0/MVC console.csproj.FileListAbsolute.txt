@@ -1,0 +1,15 @@
+C:\Users\48342168883\Desktop\backexercicios\MVC console\bin\Debug\net7.0\MVC console.exe
+C:\Users\48342168883\Desktop\backexercicios\MVC console\bin\Debug\net7.0\MVC console.deps.json
+C:\Users\48342168883\Desktop\backexercicios\MVC console\bin\Debug\net7.0\MVC console.runtimeconfig.json
+C:\Users\48342168883\Desktop\backexercicios\MVC console\bin\Debug\net7.0\MVC console.dll
+C:\Users\48342168883\Desktop\backexercicios\MVC console\bin\Debug\net7.0\MVC console.pdb
+C:\Users\48342168883\Desktop\backexercicios\MVC console\obj\Debug\net7.0\MVC console.csproj.AssemblyReference.cache
+C:\Users\48342168883\Desktop\backexercicios\MVC console\obj\Debug\net7.0\MVC console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\48342168883\Desktop\backexercicios\MVC console\obj\Debug\net7.0\MVC console.AssemblyInfoInputs.cache
+C:\Users\48342168883\Desktop\backexercicios\MVC console\obj\Debug\net7.0\MVC console.AssemblyInfo.cs
+C:\Users\48342168883\Desktop\backexercicios\MVC console\obj\Debug\net7.0\MVC console.csproj.CoreCompileInputs.cache
+C:\Users\48342168883\Desktop\backexercicios\MVC console\obj\Debug\net7.0\MVC console.dll
+C:\Users\48342168883\Desktop\backexercicios\MVC console\obj\Debug\net7.0\refint\MVC console.dll
+C:\Users\48342168883\Desktop\backexercicios\MVC console\obj\Debug\net7.0\MVC console.pdb
+C:\Users\48342168883\Desktop\backexercicios\MVC console\obj\Debug\net7.0\MVC console.genruntimeconfig.cache
+C:\Users\48342168883\Desktop\backexercicios\MVC console\obj\Debug\net7.0\ref\MVC console.dll
